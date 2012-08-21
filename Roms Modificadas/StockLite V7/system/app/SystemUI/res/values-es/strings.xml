@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Barra de estado</string>
     <string name="status_bar_clear_all_button">Borrar</string>
@@ -17,8 +17,7 @@
 Vibración"</string>
     <string name="quickpanel_silent_text">Silencio</string>
     <string name="quickpanel_vibration_text">Vibración</string>
-    <string name="quickpanel_rotation_text">"Rotación
-autom"</string>
+    <string name="quickpanel_rotation_text">"Rotación"</string>
     <string name="quickpanel_error_text">Error</string>
     <string name="capital_on">Activado</string>
     <string name="capital_off">Desactivado</string>
