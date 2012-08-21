@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="shade_bgcolor">#ff282828</item>
+    <item type="drawable" name="notification_header_text_color">#ff969696</item>
+    <item type="drawable" name="notification_number_text_color">#ffffffff</item>
+    <item type="drawable" name="APKTOOL_DUMMY_000d">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_005e">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_005f">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_0060">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_0061">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_0062">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_0063">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_0064">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_0065">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_0066">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_0067">false</item>
+</resources>

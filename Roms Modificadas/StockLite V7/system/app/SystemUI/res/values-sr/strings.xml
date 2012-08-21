@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Statusna linija</string>
+    <string name="status_bar_clear_all_button">Obriši</string>
+    <string name="status_bar_no_notifications_title">Nema obaveštenja</string>
+    <string name="status_bar_ongoing_events_title">U toku</string>
+    <string name="status_bar_latest_events_title">Obavešt.</string>
+    <string name="battery_low_title">Priključi punjač</string>
+    <string name="battery_low_subtitle">Baterija je skoro ispražnjena:</string>
+    <string name="battery_low_percent_format">Преостало је %1$d%% или мање</string>
+    <string name="battery_low_why">Upotreba</string>
+    <string name="usb_accessory_uri_prompt">Ниједна инстал. апликација не функционише са овим USB додатком. Сазнајте више о додатку на %1$s</string>
+    <string name="title_usb_accessory">USB помоћни уређај</string>
+    <string name="label_view">Прикажи</string>
+    <string name="always_use_accessory">Користи подразумевано за овај USB додатак</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Zvuk</string>
+    <string name="quickpanel_sound_vibration_text">"Zvuk
+Vibracija"</string>
+    <string name="quickpanel_silent_text">Nečujno</string>
+    <string name="quickpanel_vibration_text">Vibracija</string>
+    <string name="quickpanel_rotation_text">"Autom.
+rotacija"</string>
+    <string name="quickpanel_error_text">Greška</string>
+    <string name="capital_on">Uključeno</string>
+    <string name="capital_off">Isključeno</string>
+    <string name="lowbattery">Baterija skoro prazna. Za nastavak rada treba napuniti bateriju</string>
+    <string name="critical_lowbattery">Baterija potpuno prazna. Za nastavak rada odmah priključi telefon u struju</string>
+    <string name="dischargetitle">Info</string>
+    <string name="dischargebattery">Punjenje pauzirano. Temperatura baterije previsoka ili preniska</string>
+    <string name="fullchargetitle">Info</string>
+    <string name="fullchargebattery">"Baterija skroz napunjena.
+Otkači punjač"</string>
+    <string name="quickpanel_dc_text">Podaci</string>
+    <string name="quickpanel_dc_on">Uključivanje</string>
+    <string name="quickpanel_dc_off">Isključivanje</string>
+</resources>

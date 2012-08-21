@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Pasek stanu</string>
+    <string name="status_bar_clear_all_button">Wyczyść</string>
+    <string name="status_bar_no_notifications_title">Brak powiadomień</string>
+    <string name="status_bar_ongoing_events_title">Trwające</string>
+    <string name="status_bar_latest_events_title">Powiadom.</string>
+    <string name="battery_low_title">Podłącz ładowarkę</string>
+    <string name="battery_low_subtitle">Bateria jest prawie rozładowana:</string>
+    <string name="battery_low_percent_format">Pozostało: %1$d%% lub mniej</string>
+    <string name="battery_low_why">Zuż.baterii</string>
+    <string name="usb_accessory_uri_prompt">Zainstalowane aplikacje nie działają z tym akcesorium USB. Więcej informacji: %1$s</string>
+    <string name="title_usb_accessory">Akcesorium USB</string>
+    <string name="label_view">Wyświetl</string>
+    <string name="always_use_accessory">Używaj domyślnie dla tego akcesorium USB</string>
+    <string name="quickpanel_wifi_text">Wi-Fi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Dźwięk</string>
+    <string name="quickpanel_sound_vibration_text">"Dźwięk
+Wibracja"</string>
+    <string name="quickpanel_silent_text">Cichy</string>
+    <string name="quickpanel_vibration_text">Wibracja</string>
+    <string name="quickpanel_rotation_text">"Automat.
+obrót"</string>
+    <string name="quickpanel_error_text">Błąd</string>
+    <string name="capital_on">Wł.</string>
+    <string name="capital_off">Wył.</string>
+    <string name="lowbattery">Bateria rozładowana. Aby nadal korzystać z telefonu, rozpocznij ładowanie w krótkim czasie</string>
+    <string name="critical_lowbattery">Bateria prawie zupełnie rozładowana. Aby nadal korzystać z telefonu, rozpocznij ładowanie teraz</string>
+    <string name="dischargetitle">Informacje</string>
+    <string name="dischargebattery">Ładowanie wstrzymane. Temperatura baterii zbyt wysoka lub zbyt niska</string>
+    <string name="fullchargetitle">Informacje</string>
+    <string name="fullchargebattery">"Bateria w pełni naładowana.
+Odłącz ładowarkę"</string>
+    <string name="quickpanel_dc_text">Dane</string>
+    <string name="quickpanel_dc_on">Włączanie</string>
+    <string name="quickpanel_dc_off">Wyłączanie</string>
+</resources>

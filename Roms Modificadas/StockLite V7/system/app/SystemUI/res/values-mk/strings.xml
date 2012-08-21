@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Статусна лента</string>
+    <string name="status_bar_clear_all_button">Избриши</string>
+    <string name="status_bar_no_notifications_title">Без известувања</string>
+    <string name="status_bar_ongoing_events_title">Во тек</string>
+    <string name="status_bar_latest_events_title">Извест.</string>
+    <string name="battery_low_title">Поврзете полнач</string>
+    <string name="battery_low_subtitle">Батеријата е при крај:</string>
+    <string name="battery_low_percent_format">%1$d%% or less remaining</string>
+    <string name="battery_low_why">Потрошувачи</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Звук</string>
+    <string name="quickpanel_sound_vibration_text">"Sound
+Vibration"</string>
+    <string name="quickpanel_silent_text">Нечујно</string>
+    <string name="quickpanel_vibration_text">Вибрации</string>
+    <string name="quickpanel_rotation_text">"Auto
+rotation"</string>
+    <string name="quickpanel_error_text">Грешка</string>
+    <string name="capital_on">Вклучено</string>
+    <string name="capital_off">Исклучено</string>
+    <string name="lowbattery">Батеријата е слаба. Наполнете го телефонот наскоро за да продолжите да го користите</string>
+    <string name="critical_lowbattery">Батеријата е многу слаба. Приклучете го телефонот во струја за да го користите</string>
+    <string name="dischargetitle">Информации</string>
+    <string name="dischargebattery">Полнењето е паузирано. Темп. на батеријата е превисока или прениска</string>
+    <string name="fullchargetitle">Информации</string>
+    <string name="fullchargebattery">"Battery fully charged.
+Unplug charger"</string>
+    <string name="quickpanel_dc_text">Податоци</string>
+    <string name="quickpanel_dc_on">Се вклучува</string>
+    <string name="quickpanel_dc_off">Исклучување</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Statusleiste</string>
+    <string name="status_bar_clear_all_button">Löschen</string>
+    <string name="status_bar_no_notifications_title">Keine Benachrichtigungen</string>
+    <string name="status_bar_ongoing_events_title">Laufend</string>
+    <string name="status_bar_latest_events_title">Benachrichtigungen</string>
+    <string name="battery_low_title">Ladegerät anschließen</string>
+    <string name="battery_low_subtitle">Der Akku ist fast leer:</string>
+    <string name="battery_low_percent_format">%1$d%% oder weniger verbleiben</string>
+    <string name="battery_low_why">Akkuverbr.</string>
+    <string name="quickpanel_wifi_text">WLAN</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Ton</string>
+    <string name="quickpanel_sound_vibration_text">"Ton
+Vibration"</string>
+    <string name="quickpanel_silent_text">Stumm</string>
+    <string name="quickpanel_vibration_text">Vibration</string>
+    <string name="quickpanel_rotation_text">"Automat.
+Ausrichten"</string>
+    <string name="quickpanel_error_text">Fehler</string>
+    <string name="capital_on">Ein</string>
+    <string name="capital_off">Aus</string>
+    <string name="lowbattery">Akku schwach. Laden Sie das Telefon demnächst auf, um es weiterhin zu verwenden</string>
+    <string name="critical_lowbattery">Akku sehr schwach. Stecken Sie das Telefon ein, um es weiterhin zu verwenden</string>
+    <string name="dischargetitle">Info</string>
+    <string name="dischargebattery">Ladevorgang unterbrochen. Akkutemperatur zu hoch oder zu niedrig.</string>
+    <string name="fullchargetitle">Info</string>
+    <string name="fullchargebattery">"Akku voll geladen.
+Ladegerät entfernen"</string>
+    <string name="quickpanel_dc_text">Daten</string>
+    <string name="quickpanel_dc_on">Einschalten</string>
+    <string name="quickpanel_dc_off">Ausschalten</string>
+</resources>

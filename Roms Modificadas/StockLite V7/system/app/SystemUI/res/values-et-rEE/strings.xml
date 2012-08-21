@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Olekuriba</string>
+    <string name="status_bar_clear_all_button">Puhasta</string>
+    <string name="status_bar_no_notifications_title">Ära teavita</string>
+    <string name="status_bar_ongoing_events_title">Pooleliolev</string>
+    <string name="status_bar_latest_events_title">Teavitused</string>
+    <string name="battery_low_title">Palun ühendage laadija</string>
+    <string name="battery_low_subtitle">Aku on tühjenemas:</string>
+    <string name="battery_low_percent_format">%1$d%% or less remaining</string>
+    <string name="battery_low_why">Akukasutus</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Heli</string>
+    <string name="quickpanel_sound_vibration_text">"Sound
+Vibration"</string>
+    <string name="quickpanel_silent_text">Vaikne</string>
+    <string name="quickpanel_vibration_text">Värin</string>
+    <string name="quickpanel_rotation_text">"Auto
+rotation"</string>
+    <string name="quickpanel_error_text">Tõrge</string>
+    <string name="capital_on">Sees</string>
+    <string name="capital_off">Väljas</string>
+    <string name="lowbattery">Aku on tühi. Kasutamise jätkamiseks laadige varsti telefoni</string>
+    <string name="critical_lowbattery">Aku on kriitiliselt tühi. Kasutamise jätkamiseks ühendage telefon kohe vooluvõrku</string>
+    <string name="dischargetitle">Teave</string>
+    <string name="dischargebattery">Laadimine peatatud. Aku temperatuur on liiga kõrge või liiga madal</string>
+    <string name="fullchargetitle">Teave</string>
+    <string name="fullchargebattery">"Battery fully charged.
+Unplug charger"</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shiriti i gjendjes</string>
+    <string name="status_bar_clear_all_button">Zbraz</string>
+    <string name="status_bar_no_notifications_title">Pa njoftime</string>
+    <string name="status_bar_ongoing_events_title">Në vazhdim</string>
+    <string name="status_bar_latest_events_title">Njoftimet</string>
+    <string name="battery_low_title">Lidh ngarkuesin</string>
+    <string name="battery_low_subtitle">Bateria po dobësohet:</string>
+    <string name="battery_low_percent_format">%d%% ose më pak të mbetura</string>
+    <string name="battery_low_why">Përd. bat.</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">Bluetooth</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Tingulli</string>
+    <string name="quickpanel_silent_text">Pa ze</string>
+    <string name="quickpanel_vibration_text">Dridhja</string>
+    <string name="quickpanel_rotation_text">Rrotullim auto.</string>
+    <string name="quickpanel_error_text">Gabim</string>
+    <string name="capital_on">Aktiv</string>
+    <string name="capital_off">"Ç'aktivizuar"</string>
+    <string name="lowbattery">Bateria e rënë. Ringarko telefonin së shpejti për të vazhduar përdorimin</string>
+    <string name="critical_lowbattery">Bateria tepër e rënë. Për të vazhduar përdorimin fute tani telefonin në prizë</string>
+    <string name="dischargetitle">Info</string>
+    <string name="dischargebattery">Ngarkimi pushoi. Temperatura e baterisë tepër e lartë ose tepër e ulët</string>
+    <string name="fullchargetitle">Info</string>
+    <string name="fullchargebattery">"Bateria plotësisht e ngarkuar.
+Shkëput ngarkuesin"</string>
+</resources>

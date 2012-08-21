@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Bară de stare</string>
+    <string name="status_bar_clear_all_button">Golire</string>
+    <string name="status_bar_no_notifications_title">Fără notificări</string>
+    <string name="status_bar_ongoing_events_title">În desfăşurare</string>
+    <string name="status_bar_latest_events_title">Notificări</string>
+    <string name="battery_low_title">Conectaţi încărcătorul</string>
+    <string name="battery_low_subtitle">Bateria se descarcă:</string>
+    <string name="battery_low_percent_format">A rămas %1$d%% sau mai puţin</string>
+    <string name="battery_low_why">Util. bat.</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Sunet</string>
+    <string name="quickpanel_sound_vibration_text">"Sunet
+Vibraţie"</string>
+    <string name="quickpanel_silent_text">Silenţios</string>
+    <string name="quickpanel_vibration_text">Vibraţie</string>
+    <string name="quickpanel_rotation_text">"Rotire
+auto"</string>
+    <string name="quickpanel_error_text">Eroare</string>
+    <string name="capital_on">Pornit</string>
+    <string name="capital_off">Oprit</string>
+    <string name="lowbattery">Baterie descărcată. Reîncărcaţi telefonul în curând pentru a continua utilizarea</string>
+    <string name="critical_lowbattery">Bateria este foarte descărcată. Conectaţi acum telef. la o sursă de alim. pt. a continua utilizarea acestuia</string>
+    <string name="dischargetitle">Informaţii</string>
+    <string name="dischargebattery">Încărcare întreruptă. Temperatura bateriei prea ridicată/scăzută</string>
+    <string name="fullchargetitle">Informaţii</string>
+    <string name="fullchargebattery">"Baterie încărcată complet.
+Deconectaţi încărcătorul"</string>
+</resources>

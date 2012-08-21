@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Лента на състоянието</string>
+    <string name="status_bar_clear_all_button">Изчиств.</string>
+    <string name="status_bar_no_notifications_title">Без известие</string>
+    <string name="status_bar_ongoing_events_title">Текуща</string>
+    <string name="status_bar_latest_events_title">Уведомл.</string>
+    <string name="battery_low_title">Свържете зареждащото устройство</string>
+    <string name="battery_low_subtitle">Батерията се изтощава:</string>
+    <string name="battery_low_percent_format">Остава %1$d%% или по-малко</string>
+    <string name="battery_low_why">Изп.батерия</string>
+    <string name="usb_accessory_uri_prompt">Инсталираните приложения не работят с този аксесоар за USB. Научете повече на адрес %1$s</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Звук</string>
+    <string name="quickpanel_sound_vibration_text">"Звук
+Вибрация"</string>
+    <string name="quickpanel_silent_text">Тих</string>
+    <string name="quickpanel_vibration_text">Вибрация</string>
+    <string name="quickpanel_rotation_text">"Автом.
+завърт"</string>
+    <string name="quickpanel_error_text">Грешка</string>
+    <string name="capital_on">Включено</string>
+    <string name="capital_off">Изключено</string>
+    <string name="lowbattery">Батерията е изтощена. Заредете телефона след малко, за да продължите да го ползвате</string>
+    <string name="critical_lowbattery">Батерията е изтощена докрай. Включете телефона към захранване, за да продължите да го ползвате</string>
+    <string name="dischargetitle">Инфо</string>
+    <string name="dischargebattery">Зареждането в пауза. Температурата на батерията твърде висока или ниска</string>
+    <string name="fullchargetitle">Инфо</string>
+    <string name="fullchargebattery">"Батерията напълно заредена.
+Изключете зарядното устройство"</string>
+    <string name="quickpanel_dc_text">Данни</string>
+    <string name="quickpanel_dc_on">Включване</string>
+    <string name="quickpanel_dc_off">Изключване</string>
+</resources>

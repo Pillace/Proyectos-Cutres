@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Durum çubuğu</string>
+    <string name="status_bar_clear_all_button">Temizle</string>
+    <string name="status_bar_no_notifications_title">Bildirim yok</string>
+    <string name="status_bar_ongoing_events_title">Devam ediyor</string>
+    <string name="status_bar_latest_events_title">Bildirim</string>
+    <string name="battery_low_title">Lütfen şarj cihazını takın</string>
+    <string name="battery_low_subtitle">Pil seviyesi düşüyor:</string>
+    <string name="battery_low_percent_format">%1$d%% veya daha az kaldı</string>
+    <string name="battery_low_why">Pil kul.</string>
+    <string name="usb_accessory_uri_prompt">Hiçbir yüklü uyg bu USB aksesuarıyla çalışmıyor. Bu aksesuar hakknd daha fazla bilgi için: %1$s</string>
+    <string name="title_usb_accessory">USB aksesuarı</string>
+    <string name="label_view">Görüntüle</string>
+    <string name="always_use_accessory">Bu USB aksesuar için varsayılan olarak kullan</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Ses</string>
+    <string name="quickpanel_sound_vibration_text">"Ses
+Titreşim"</string>
+    <string name="quickpanel_silent_text">Sessiz</string>
+    <string name="quickpanel_vibration_text">Titreşim</string>
+    <string name="quickpanel_rotation_text">"Otomatk
+döndürme"</string>
+    <string name="quickpanel_error_text">Hata</string>
+    <string name="capital_on">Açık</string>
+    <string name="capital_off">Kapalı</string>
+    <string name="lowbattery">Pil seviyesi düşük. Kullanmaya devam etmek için telefonu en yakın zamanda şarj edin</string>
+    <string name="critical_lowbattery">Pil seviyesi çok düşük. Kullanmaya devam etmek için telefonu hemen şarja takın</string>
+    <string name="dischargetitle">Bilgi</string>
+    <string name="dischargebattery">Şarj duraklatıldı. Pil sıcaklığı çok yüksek veya çok düşük</string>
+    <string name="fullchargetitle">Bilgi</string>
+    <string name="fullchargebattery">"Pil tamamen şarj oldu.
+Şarj cihazını çıkartın"</string>
+    <string name="quickpanel_dc_text">Data</string>
+    <string name="quickpanel_dc_on">Açılıyor</string>
+    <string name="quickpanel_dc_off">Kapatılıyor</string>
+</resources>

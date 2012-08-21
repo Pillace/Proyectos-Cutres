@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">"Barre d'état"</string>
+    <string name="status_bar_clear_all_button">Effacer</string>
+    <string name="status_bar_no_notifications_title">Pas de notification</string>
+    <string name="status_bar_ongoing_events_title">En cours</string>
+    <string name="status_bar_latest_events_title">Notif.</string>
+    <string name="battery_low_title">Branchez le chargeur</string>
+    <string name="battery_low_subtitle">Le niveau de la batterie devient faible :</string>
+    <string name="battery_low_percent_format">Maximum %1$d%% restants</string>
+    <string name="battery_low_why">Batterie</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Son</string>
+    <string name="quickpanel_sound_vibration_text">"Son
+Vibreur"</string>
+    <string name="quickpanel_silent_text">Discret</string>
+    <string name="quickpanel_vibration_text">Vibreur</string>
+    <string name="quickpanel_rotation_text">"Rotation
+auto"</string>
+    <string name="quickpanel_error_text">Erreur</string>
+    <string name="capital_on">ON</string>
+    <string name="capital_off">OFF</string>
+    <string name="lowbattery">"Batterie faible. Le téléphone devra bientôt être rechargé pour continuer à l'utiliser"</string>
+    <string name="critical_lowbattery">"Niveau de batterie extrêmement faible. Branchez le téléphone immédiatement pour continuer à l'utiliser"</string>
+    <string name="dischargetitle">En savoir plus</string>
+    <string name="dischargebattery">Chargement interrompu. Température batterie trop élevée ou trop faible</string>
+    <string name="fullchargetitle">En savoir plus</string>
+    <string name="fullchargebattery">"La batterie est chargée.
+Débranchez le chargeur"</string>
+</resources>

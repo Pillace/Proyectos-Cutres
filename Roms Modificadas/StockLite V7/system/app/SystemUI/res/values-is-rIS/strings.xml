@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Stöðustika</string>
+    <string name="status_bar_clear_all_button">Hreinsa</string>
+    <string name="status_bar_no_notifications_title">Engar tilkynningar</string>
+    <string name="status_bar_ongoing_events_title">Í gangi</string>
+    <string name="status_bar_latest_events_title">Tilkynningar</string>
+    <string name="battery_low_title">Tengdu hleðslutækið</string>
+    <string name="battery_low_subtitle">Rafhlaðan er að tæmast:</string>
+    <string name="battery_low_percent_format">%1$d%% or less remaining</string>
+    <string name="battery_low_why">Rafhl.notk.</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Hljóð</string>
+    <string name="quickpanel_sound_vibration_text">"Sound
+Vibration"</string>
+    <string name="quickpanel_silent_text">Án hljóðs</string>
+    <string name="quickpanel_vibration_text">Titringur</string>
+    <string name="quickpanel_rotation_text">"Auto
+rotation"</string>
+    <string name="quickpanel_error_text">Villa</string>
+    <string name="capital_on">Kveikt</string>
+    <string name="capital_off">Slökkt</string>
+    <string name="lowbattery">Það er lítil hleðsla á rafhlöðunni. Endurhladdu símann til að halda áfram að nota hann</string>
+    <string name="critical_lowbattery">Mjög lítil hleðsla á rafhlöðu. Stingdu símanum í samband við hleðslutæki</string>
+    <string name="dischargetitle">Upplýsingar</string>
+    <string name="dischargebattery">Hlé var gert á hleðslu. Rafhlaðan er of heit eða of köld</string>
+    <string name="fullchargetitle">Upplýsingar</string>
+    <string name="fullchargebattery">"Battery fully charged.
+Unplug charger"</string>
+</resources>

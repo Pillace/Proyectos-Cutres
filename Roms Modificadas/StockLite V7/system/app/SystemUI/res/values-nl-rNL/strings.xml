@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Statusbalk</string>
+    <string name="status_bar_clear_all_button">Wissen</string>
+    <string name="status_bar_no_notifications_title">Geen meldingen</string>
+    <string name="status_bar_ongoing_events_title">Doorlopend</string>
+    <string name="status_bar_latest_events_title">Meldingen</string>
+    <string name="battery_low_title">Sluit lader aan</string>
+    <string name="battery_low_subtitle">De batterij is bijna leeg:</string>
+    <string name="battery_low_percent_format">%1$d%% of minder resterend</string>
+    <string name="battery_low_why">Batterij</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Geluid</string>
+    <string name="quickpanel_sound_vibration_text">"Melodie
+Trillen"</string>
+    <string name="quickpanel_silent_text">Stil</string>
+    <string name="quickpanel_vibration_text">Trillen</string>
+    <string name="quickpanel_rotation_text">"Autom.
+draaien"</string>
+    <string name="quickpanel_error_text">Fout</string>
+    <string name="capital_on">Aan</string>
+    <string name="capital_off">Uit</string>
+    <string name="lowbattery">Batterij leeg. Laad de batterij op om de telefoon te blijven gebruiken</string>
+    <string name="critical_lowbattery">Batterij bijna leeg. Laad de batterij op om de telefoon te blijven gebruiken</string>
+    <string name="dischargetitle">Info</string>
+    <string name="dischargebattery">Opladen onderbroken. Batterijtemperatuur te hoog of te laag</string>
+    <string name="fullchargetitle">Info</string>
+    <string name="fullchargebattery">"Batterij helemaal opgeladen.
+Verwijder de oplader"</string>
+</resources>

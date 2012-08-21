@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Barra stádais</string>
+    <string name="status_bar_clear_all_button">Glan</string>
+    <string name="status_bar_no_notifications_title">Níl fógraí ann</string>
+    <string name="status_bar_ongoing_events_title">Leanúnach</string>
+    <string name="status_bar_latest_events_title">Fógraí</string>
+    <string name="battery_low_title">Ceangail luchtaire le do thoil</string>
+    <string name="battery_low_subtitle">Tá an ceallra ag éirí íseal:</string>
+    <string name="battery_low_percent_format">%1$d%% or less remaining</string>
+    <string name="battery_low_why">Úsáid ceallra</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Fuaim</string>
+    <string name="quickpanel_sound_vibration_text">"Sound
+Vibration"</string>
+    <string name="quickpanel_silent_text">Tostach</string>
+    <string name="quickpanel_vibration_text">Crith</string>
+    <string name="quickpanel_rotation_text">"Auto
+rotation"</string>
+    <string name="quickpanel_error_text">Earráid</string>
+    <string name="capital_on">Ar siúl</string>
+    <string name="capital_off">As</string>
+    <string name="lowbattery">Ceallra lag. Luchtaigh an fón arís chun leanúint dá úsáid</string>
+    <string name="critical_lowbattery">Ceallra an-lag. Plugáil an fón isteach anois chun leanúint dá úsáid</string>
+    <string name="dischargetitle">Faisnéis</string>
+    <string name="dischargebattery">Luchtú ar sos. Teocht an cheallra ró-ard nó ró-íseal</string>
+    <string name="fullchargetitle">Faisnéis</string>
+    <string name="fullchargebattery">"Battery fully charged.
+Unplug charger"</string>
+</resources>

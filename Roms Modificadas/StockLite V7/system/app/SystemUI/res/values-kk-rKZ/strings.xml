@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Күй жолағы</string>
+    <string name="status_bar_clear_all_button">Тазалау</string>
+    <string name="status_bar_no_notifications_title">Хабарландырулар жоқ</string>
+    <string name="status_bar_ongoing_events_title">Жалғыстыру</string>
+    <string name="status_bar_latest_events_title">Хабарландырулар</string>
+    <string name="battery_low_title">Зарядтағышты қосыңыз</string>
+    <string name="battery_low_subtitle">Батареяның заряды азайып бара жатыр:</string>
+    <string name="battery_low_percent_format">%1$d%% or less remaining</string>
+    <string name="battery_low_why">Батар пайд.</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Дыбыс</string>
+    <string name="quickpanel_sound_vibration_text">"Sound
+Vibration"</string>
+    <string name="quickpanel_silent_text">Дыбыссыз</string>
+    <string name="quickpanel_vibration_text">Діріл</string>
+    <string name="quickpanel_rotation_text">"Авто
+бұру"</string>
+    <string name="quickpanel_error_text">Қате</string>
+    <string name="capital_on">Қосылған</string>
+    <string name="capital_off">Өшірілген</string>
+    <string name="lowbattery">Батарея заряды аз. Пайдалана беру үшін телефонды жақын арада қайта зарядтаңыз</string>
+    <string name="critical_lowbattery">Батарея заряды өте төмен. Пайдалана беру үшін телефонды қазір қосыңыз</string>
+    <string name="dischargetitle">Ақпарат</string>
+    <string name="dischargebattery">Зарядтау уақытша тоқтатылды. Батарея температурасы тым жоғары не төмен</string>
+    <string name="fullchargetitle">Ақпарат</string>
+    <string name="fullchargebattery">"Battery fully charged.
+Unplug charger"</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Рядок стану</string>
+    <string name="status_bar_clear_all_button">Очист.</string>
+    <string name="status_bar_no_notifications_title">Без сповіщень</string>
+    <string name="status_bar_ongoing_events_title">Триває</string>
+    <string name="status_bar_latest_events_title">Сповіщення</string>
+    <string name="battery_low_title">Підключіть зарядний пристрій</string>
+    <string name="battery_low_subtitle">Акумулятор розряджується:</string>
+    <string name="battery_low_percent_format">Залиш-ся %1$d%% або менше</string>
+    <string name="battery_low_why">Викор.акум.</string>
+    <string name="quickpanel_wifi_text">Wi-Fi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Звук</string>
+    <string name="quickpanel_sound_vibration_text">"Звук
+Вібрація"</string>
+    <string name="quickpanel_silent_text">Без звуку</string>
+    <string name="quickpanel_vibration_text">Вібрація</string>
+    <string name="quickpanel_rotation_text">"Авто
+оберт"</string>
+    <string name="quickpanel_error_text">Помилка</string>
+    <string name="capital_on">Увімкнено</string>
+    <string name="capital_off">Вимкнено</string>
+    <string name="lowbattery">Акумулятор розряджений. Якнайшвидше зарядіть телефон, щоб продовжити його використання</string>
+    <string name="critical_lowbattery">Критично низький заряд акумулятора. Підключіть телефон, щоб продовжити його використання</string>
+    <string name="dischargetitle">Інформація</string>
+    <string name="dischargebattery">Зарядження призупинено. Температура акумулятора зависока або занизька</string>
+    <string name="fullchargetitle">Інформація</string>
+    <string name="fullchargebattery">"Батарею заряджено.
+Від’єднайте зарядний пристрій"</string>
+</resources>

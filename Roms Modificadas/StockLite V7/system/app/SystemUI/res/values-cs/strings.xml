@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Stavový panel</string>
+    <string name="status_bar_clear_all_button">Vymazat</string>
+    <string name="status_bar_no_notifications_title">Žádné oznámení</string>
+    <string name="status_bar_ongoing_events_title">Probíhající</string>
+    <string name="status_bar_latest_events_title">Upozornění</string>
+    <string name="battery_low_title">Připojte nabíječku</string>
+    <string name="battery_low_subtitle">Baterie začíná být vybitá:</string>
+    <string name="battery_low_percent_format">Zbývá %1$d%% nebo méně</string>
+    <string name="battery_low_why">Baterie</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Zvuk</string>
+    <string name="quickpanel_sound_vibration_text">"Zvuk
+Vibrace"</string>
+    <string name="quickpanel_silent_text">Tichý</string>
+    <string name="quickpanel_vibration_text">Vibrace</string>
+    <string name="quickpanel_rotation_text">"Automat.
+otočení"</string>
+    <string name="quickpanel_error_text">Chyba</string>
+    <string name="capital_on">Zapnout</string>
+    <string name="capital_off">Vypnout</string>
+    <string name="lowbattery">Slabá baterie. Chcete-li telefon dále používat, budete ho muset brzy dobít</string>
+    <string name="critical_lowbattery">Kritický stav baterie. Chcete-li telefon dále používat, dobijte telefon</string>
+    <string name="dischargetitle">Informace</string>
+    <string name="dischargebattery">Nabíjení pozastaveno. Teplota baterie je příliš vysoká nebo příliš nízká</string>
+    <string name="fullchargetitle">Informace</string>
+    <string name="fullchargebattery">"Baterie je plně nabitá.
+Odpojte nabíječku"</string>
+    <string name="quickpanel_dc_text">Data</string>
+    <string name="quickpanel_dc_on">Zapínání</string>
+    <string name="quickpanel_dc_off">Vypínání</string>
+</resources>

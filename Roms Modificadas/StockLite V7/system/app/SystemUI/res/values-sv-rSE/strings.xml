@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Statusfält</string>
+    <string name="status_bar_clear_all_button">Radera</string>
+    <string name="status_bar_no_notifications_title">Inga underrättelser</string>
+    <string name="status_bar_ongoing_events_title">Pågående</string>
+    <string name="status_bar_latest_events_title">Meddelanden</string>
+    <string name="battery_low_title">Anslut laddaren</string>
+    <string name="battery_low_subtitle">Batteriet håller på att ta slut:</string>
+    <string name="battery_low_percent_format">%1$d%% eller mindre kvar</string>
+    <string name="battery_low_why">Batterianv.</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Ljud</string>
+    <string name="quickpanel_sound_vibration_text">"Ljud
+Vibration"</string>
+    <string name="quickpanel_silent_text">Tyst</string>
+    <string name="quickpanel_vibration_text">Vibration</string>
+    <string name="quickpanel_rotation_text">"Auto
+rotering"</string>
+    <string name="quickpanel_error_text">Fel</string>
+    <string name="capital_on">På</string>
+    <string name="capital_off">Av</string>
+    <string name="lowbattery">Svagt batteri. Ladda telefonen snart om du vill fortsätta använda den</string>
+    <string name="critical_lowbattery">Batteriet är nästan slut. Anslut laddaren för att fortsätta använda den</string>
+    <string name="dischargetitle">Info</string>
+    <string name="dischargebattery">Laddning pausad. Batteritemperaturen är för hög eller för låg</string>
+    <string name="fullchargetitle">Info</string>
+    <string name="fullchargebattery">"Batteriet fulladdat.
+Koppla ur laddaren"</string>
+</resources>

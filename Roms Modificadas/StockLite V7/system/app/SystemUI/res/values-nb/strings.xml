@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Statuslinje</string>
+    <string name="status_bar_clear_all_button">Slett</string>
+    <string name="status_bar_no_notifications_title">Ingen meldinger</string>
+    <string name="status_bar_ongoing_events_title">Pågår</string>
+    <string name="status_bar_latest_events_title">Varsler</string>
+    <string name="battery_low_title">Koble til lader</string>
+    <string name="battery_low_subtitle">Batterinivået er lavt:</string>
+    <string name="battery_low_percent_format">%1$d%% or less remaining</string>
+    <string name="battery_low_why">Batteribruk</string>
+    <string name="usb_accessory_uri_prompt">Ingen installerte applikasjoner støtter dette USB-tilbehøret. Les mer om tilbehøret på %1$s</string>
+    <string name="title_usb_accessory">USB-enhet</string>
+    <string name="label_view">Vis</string>
+    <string name="always_use_accessory">Bruk som standard for dette USB-tilbehøret</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Lyd</string>
+    <string name="quickpanel_sound_vibration_text">"Sound
+Vibration"</string>
+    <string name="quickpanel_silent_text">Stille</string>
+    <string name="quickpanel_vibration_text">Vibrasjon</string>
+    <string name="quickpanel_rotation_text">"Auto-
+rotasjon"</string>
+    <string name="quickpanel_error_text">Feil</string>
+    <string name="capital_on">På</string>
+    <string name="capital_off">Av</string>
+    <string name="lowbattery">Lavt batterinivå. Lad opp telefonen snart for å fortsette bruken</string>
+    <string name="critical_lowbattery">Batterinivået er kritisk lavt. Koble laderen til telefonen nå for å fortsette bruken</string>
+    <string name="dischargetitle">Info</string>
+    <string name="dischargebattery">Lading stanset midlertidig. Batteritemperatur for høy eller for lav</string>
+    <string name="fullchargetitle">Info</string>
+    <string name="fullchargebattery">"Battery fully charged.
+Unplug charger"</string>
+    <string name="quickpanel_dc_text">Data</string>
+    <string name="quickpanel_dc_on">Slår på</string>
+    <string name="quickpanel_dc_off">Slår av</string>
+</resources>

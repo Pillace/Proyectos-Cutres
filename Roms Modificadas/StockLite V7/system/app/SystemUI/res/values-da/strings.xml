@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Statuslinje</string>
+    <string name="status_bar_clear_all_button">Slet</string>
+    <string name="status_bar_no_notifications_title">Ingen meddelelser</string>
+    <string name="status_bar_ongoing_events_title">I gang</string>
+    <string name="status_bar_latest_events_title">Beskeder</string>
+    <string name="battery_low_title">Tilslut oplader</string>
+    <string name="battery_low_subtitle">Batteriet er snart tomt:</string>
+    <string name="battery_low_percent_format">%1$d%% eller mindre tilbage</string>
+    <string name="battery_low_why">Batteribrug</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Lyd</string>
+    <string name="quickpanel_sound_vibration_text">"Lyd
+Vibrator"</string>
+    <string name="quickpanel_silent_text">Lydløs</string>
+    <string name="quickpanel_vibration_text">Vibrator</string>
+    <string name="quickpanel_rotation_text">"Auto
+rotation"</string>
+    <string name="quickpanel_error_text">Fejl</string>
+    <string name="capital_on">Til</string>
+    <string name="capital_off">Fra</string>
+    <string name="lowbattery">Batteriniveauet er lavt. Genoplad telefonen hurtigst muligt for at fortsætte brugen</string>
+    <string name="critical_lowbattery">Batteriniveauet er meget lavt. Sæt telefonen i laderen nu for at fortsætte med at bruge den</string>
+    <string name="dischargetitle">Oplysninger</string>
+    <string name="dischargebattery">Pause i opladning. Batteritemperaturen er for høj eller for lav</string>
+    <string name="fullchargetitle">Oplysninger</string>
+    <string name="fullchargebattery">"Batteriet er helt opladet.
+Frakobl oplader"</string>
+    <string name="quickpanel_dc_text">Data</string>
+    <string name="quickpanel_dc_on">Aktiverer</string>
+    <string name="quickpanel_dc_off">Deaktiverer</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Būsenos juosta</string>
+    <string name="status_bar_clear_all_button">Valyti</string>
+    <string name="status_bar_no_notifications_title">Jokių įspėjimų</string>
+    <string name="status_bar_ongoing_events_title">Tebevykstantis</string>
+    <string name="status_bar_latest_events_title">Pranešimai</string>
+    <string name="battery_low_title">Prašome prijungti kroviklį</string>
+    <string name="battery_low_subtitle">Akumuliatorius senka:</string>
+    <string name="battery_low_percent_format">Liko %1$d%% ar mažiau</string>
+    <string name="battery_low_why">Akum. naud.</string>
+    <string name="quickpanel_wifi_text">„Wi-Fi“</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Garsas</string>
+    <string name="quickpanel_sound_vibration_text">"Garsas
+Vibruoti"</string>
+    <string name="quickpanel_silent_text">Tylusis</string>
+    <string name="quickpanel_vibration_text">Vibruoti</string>
+    <string name="quickpanel_rotation_text">"Aut.
+pasukimas"</string>
+    <string name="quickpanel_error_text">Klaida</string>
+    <string name="capital_on">Įjungti</string>
+    <string name="capital_off">Išjungti</string>
+    <string name="lowbattery">Senka akumuliatorius. Nedelsdami įkraukite telefoną ir naudokitės toliau</string>
+    <string name="critical_lowbattery">Kritinė akumuliatoriaus įkrova. Prijunkite telefoną prie maitinimo šaltinio, jei norite naudotis toliau</string>
+    <string name="dischargetitle">Informacija</string>
+    <string name="dischargebattery">Krovimas pristabdytas. Per aukšta arba per žema akumuliatoriaus temp.</string>
+    <string name="fullchargetitle">Informacija</string>
+    <string name="fullchargebattery">"Baterija visiškai įkrauta.
+Ištraukite įkroviklį"</string>
+</resources>

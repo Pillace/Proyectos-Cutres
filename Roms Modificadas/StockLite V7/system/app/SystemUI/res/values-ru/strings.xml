@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Строка состояния</string>
+    <string name="status_bar_clear_all_button">Стереть</string>
+    <string name="status_bar_no_notifications_title">Нет уведомлений</string>
+    <string name="status_bar_ongoing_events_title">Текущее</string>
+    <string name="status_bar_latest_events_title">Уведомления</string>
+    <string name="battery_low_title">Подключите зарядное устройство</string>
+    <string name="battery_low_subtitle">Заряд аккумулятора снижается:</string>
+    <string name="battery_low_percent_format">Осталось %1$d%% или меньше</string>
+    <string name="battery_low_why">Батарея</string>
+    <string name="usb_accessory_uri_prompt">Установленные приложения не поддерживают этот USB-аксессуар. Подробнее о нем читайте здесь: %1$s.</string>
+    <string name="title_usb_accessory">USB-устройство</string>
+    <string name="label_view">Просмотр</string>
+    <string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Звук</string>
+    <string name="quickpanel_sound_vibration_text">"Звук
+Вибрация"</string>
+    <string name="quickpanel_silent_text">Без звука</string>
+    <string name="quickpanel_vibration_text">Вибрация</string>
+    <string name="quickpanel_rotation_text">"Авто
+поворот"</string>
+    <string name="quickpanel_error_text">Ошибка</string>
+    <string name="capital_on">Включено</string>
+    <string name="capital_off">Выключено</string>
+    <string name="lowbattery">Аккумулятор разряжен. Зарядите его, чтобы продолжить пользоваться устройством.</string>
+    <string name="critical_lowbattery">Аккумулятор полностью разряжен. Подключите телефон к зарядному устройству, чтобы продолжить пользоваться им</string>
+    <string name="dischargetitle">Инфо</string>
+    <string name="dischargebattery">Зарядка приостановлена. Температура батареи слишком высокая или низкая</string>
+    <string name="fullchargetitle">Инфо</string>
+    <string name="fullchargebattery">"Аккумулятор заряжен.
+Отключите от сети"</string>
+    <string name="quickpanel_dc_text">Данные</string>
+    <string name="quickpanel_dc_on">Включение</string>
+    <string name="quickpanel_dc_off">Отключение</string>
+</resources>

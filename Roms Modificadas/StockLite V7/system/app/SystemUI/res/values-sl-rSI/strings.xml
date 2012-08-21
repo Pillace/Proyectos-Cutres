@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Vrstica stanja</string>
+    <string name="status_bar_clear_all_button">Počisti</string>
+    <string name="status_bar_no_notifications_title">Brez obvestil</string>
+    <string name="status_bar_ongoing_events_title">Poteka</string>
+    <string name="status_bar_latest_events_title">Obvestila</string>
+    <string name="battery_low_title">Priključite polnilnik</string>
+    <string name="battery_low_subtitle">Baterija je skoraj prazna:</string>
+    <string name="battery_low_percent_format">Preostalo %1$d%% ali manj</string>
+    <string name="battery_low_why">Poraba bat.</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Zvok</string>
+    <string name="quickpanel_sound_vibration_text">"Zvok
+Vibriranje"</string>
+    <string name="quickpanel_silent_text">Tiho</string>
+    <string name="quickpanel_vibration_text">Vibriranje</string>
+    <string name="quickpanel_rotation_text">"Samodej.
+vrtenje"</string>
+    <string name="quickpanel_error_text">Napaka</string>
+    <string name="capital_on">Vključeno</string>
+    <string name="capital_off">Izključeno</string>
+    <string name="lowbattery">Baterija skoraj prazna. Za nadaljnjo uporabo v kratkem napolnite telefon</string>
+    <string name="critical_lowbattery">Baterija skoraj povsem prazna. Za nadaljnjo uporabo priključite telefon na polnilnik</string>
+    <string name="dischargetitle">Info</string>
+    <string name="dischargebattery">Polnjenje je prekinjeno. Temperatura baterije je previsoka ali prenizka</string>
+    <string name="fullchargetitle">Info</string>
+    <string name="fullchargebattery">"Baterija je polna.
+Odklopite polnilnik"</string>
+</resources>

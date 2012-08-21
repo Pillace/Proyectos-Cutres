@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Barra de estado</string>
+    <string name="status_bar_clear_all_button">Limpar</string>
+    <string name="status_bar_no_notifications_title">Sem notificações</string>
+    <string name="status_bar_ongoing_events_title">Em curso</string>
+    <string name="status_bar_latest_events_title">Notificaç.</string>
+    <string name="battery_low_title">Ligue o carregador</string>
+    <string name="battery_low_subtitle">A bateria está a ficar fraca:</string>
+    <string name="battery_low_percent_format">%1$d%% ou menos restante(s)</string>
+    <string name="battery_low_why">Util. bat.</string>
+    <string name="usb_accessory_uri_prompt">Nenhum apl. instalado funciona com o acess. USB. Saiba mais sobre o acessório em %1$s</string>
+    <string name="title_usb_accessory">Acessório USB</string>
+    <string name="label_view">Visualizar</string>
+    <string name="always_use_accessory">Usar por padrão para este acessório USB</string>
+    <string name="quickpanel_wifi_text">Wi Fi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Som</string>
+    <string name="quickpanel_sound_vibration_text">"Som
+Vibração"</string>
+    <string name="quickpanel_silent_text">Silencioso</string>
+    <string name="quickpanel_vibration_text">Vibração</string>
+    <string name="quickpanel_rotation_text">"Rotação
+autom"</string>
+    <string name="quickpanel_error_text">Erro</string>
+    <string name="capital_on">Ligar</string>
+    <string name="capital_off">Desligar</string>
+    <string name="lowbattery">Bateria fraca. Recarregue o telefone em breve para poder continuar a utilizá-lo</string>
+    <string name="critical_lowbattery">Bateria criticamente fraca. Ligue o telefone ao carregador para continuar a utilizá-lo</string>
+    <string name="dischargetitle">Informações</string>
+    <string name="dischargebattery">Carregamento em pausa. Temperatura da bateria demasiado alta ou baixa</string>
+    <string name="fullchargetitle">Informações</string>
+    <string name="fullchargebattery">"Bateria completamente carregada.
+Desligue o carregador"</string>
+    <string name="quickpanel_dc_text">Dados</string>
+    <string name="quickpanel_dc_on">A ligar</string>
+    <string name="quickpanel_dc_off">A desligar</string>
+</resources>

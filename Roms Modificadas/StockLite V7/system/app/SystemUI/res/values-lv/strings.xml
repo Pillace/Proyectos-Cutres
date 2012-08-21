@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Statusa josla</string>
+    <string name="status_bar_clear_all_button">Nodzēst</string>
+    <string name="status_bar_no_notifications_title">Nav paziņojumu</string>
+    <string name="status_bar_ongoing_events_title">Notiekoši</string>
+    <string name="status_bar_latest_events_title">Paziņojumi</string>
+    <string name="battery_low_title">Lūdzu, pievienojiet lādētāju</string>
+    <string name="battery_low_subtitle">Zems akumulatora uzlādes līmenis:</string>
+    <string name="battery_low_percent_format">Atlicis %1$d%% vai mazāk</string>
+    <string name="battery_low_why">Akum. liet.</string>
+    <string name="usb_accessory_uri_prompt">Neinst. lietojumpr. darbojas ar šo USB pied. Uzz. vairāk par šo piederumu: %1$s.</string>
+    <string name="title_usb_accessory">USB piederums</string>
+    <string name="label_view">Skatīt</string>
+    <string name="always_use_accessory">Pēc noklusējuma izmantot šim USB piederumam</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Skaņa</string>
+    <string name="quickpanel_sound_vibration_text">"Skaņa
+Vibrācija"</string>
+    <string name="quickpanel_silent_text">Klusums</string>
+    <string name="quickpanel_vibration_text">Vibrācija</string>
+    <string name="quickpanel_rotation_text">"Autom.
+pagriezt"</string>
+    <string name="quickpanel_error_text">Kļūda</string>
+    <string name="capital_on">Ieslēgt</string>
+    <string name="capital_off">Izslēgt</string>
+    <string name="lowbattery">Gandrīz tukšs akumulators. Lai turpinātu lietot tālruni, pievienojiet lādētāju</string>
+    <string name="critical_lowbattery">Tukšs akumulators. Lai turpinātu lietot tālruni, pievienojiet lādētāju</string>
+    <string name="dischargetitle">Informācija</string>
+    <string name="dischargebattery">Uzlāde apturēta. Akumulatora temperatūra ir par augstu vai par zemu</string>
+    <string name="fullchargetitle">Informācija</string>
+    <string name="fullchargebattery">"Akumulators ir pilnībā uzlādēts.
+Atvienojiet lādētāju"</string>
+    <string name="quickpanel_dc_text">Dati</string>
+    <string name="quickpanel_dc_on">Ieslēdz</string>
+    <string name="quickpanel_dc_off">Izslēdz</string>
+</resources>

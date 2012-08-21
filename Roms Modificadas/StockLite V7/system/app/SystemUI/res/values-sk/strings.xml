@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Stavový riadok</string>
+    <string name="status_bar_clear_all_button">Vymazať</string>
+    <string name="status_bar_no_notifications_title">Žiadne upozornenia</string>
+    <string name="status_bar_ongoing_events_title">Nepretržitá</string>
+    <string name="status_bar_latest_events_title">Oznámenia</string>
+    <string name="battery_low_title">Pripojte nabíjačku</string>
+    <string name="battery_low_subtitle">Batéria je takmer vybitá:</string>
+    <string name="battery_low_percent_format">Zostáva %1$d%% alebo menej</string>
+    <string name="battery_low_why">Použ. bat.</string>
+    <string name="usb_accessory_uri_prompt">S týmto periférnym zariad. USB nefunguje žiadna nainštalovaná aplikácia. Viac informácií nájdete na stránkach %1$s</string>
+    <string name="title_usb_accessory">Periférne zariadenie USB</string>
+    <string name="label_view">Zobraziť</string>
+    <string name="always_use_accessory">Pre toto periférne zar. USB použiť ako predvolené</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Zvuk</string>
+    <string name="quickpanel_sound_vibration_text">"Zvuk
+Vibrácia"</string>
+    <string name="quickpanel_silent_text">Tichý</string>
+    <string name="quickpanel_vibration_text">Vibrácia</string>
+    <string name="quickpanel_rotation_text">"Autom.
+otáčanie"</string>
+    <string name="quickpanel_error_text">Chyba</string>
+    <string name="capital_on">Zap.</string>
+    <string name="capital_off">Vyp.</string>
+    <string name="lowbattery">Batéria je vybitá. Čoskoro nabite telefón, ak ho chcete naďalej používať</string>
+    <string name="critical_lowbattery">Batéria je takmer vybitá. Telefón teraz pripojte, ak ho chcete naďalej používať</string>
+    <string name="dischargetitle">Informácie</string>
+    <string name="dischargebattery">Nabíjanie je pozastavené. Teplota batérie je príliš vysoká alebo nízka</string>
+    <string name="fullchargetitle">Informácie</string>
+    <string name="fullchargebattery">"Batéria je úplne nabitá.
+Odpojte nabíjačku"</string>
+    <string name="quickpanel_dc_text">Dáta</string>
+    <string name="quickpanel_dc_on">Zapína sa</string>
+    <string name="quickpanel_dc_off">Vypína sa</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Tilapalkki</string>
+    <string name="status_bar_clear_all_button">Tyhjennä</string>
+    <string name="status_bar_no_notifications_title">Ei ilmoituksia</string>
+    <string name="status_bar_ongoing_events_title">Käynnissä oleva</string>
+    <string name="status_bar_latest_events_title">Ilmoitus</string>
+    <string name="battery_low_title">Liitä laturi</string>
+    <string name="battery_low_subtitle">Akun varaustaso vähissä:</string>
+    <string name="battery_low_percent_format">jäljellä %1$d%% tai vähemmän</string>
+    <string name="battery_low_why">Akun käyttö</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Ääni</string>
+    <string name="quickpanel_sound_vibration_text">"Ääni
+Värinä"</string>
+    <string name="quickpanel_silent_text">Äänetön</string>
+    <string name="quickpanel_vibration_text">Värinä</string>
+    <string name="quickpanel_rotation_text">"Autom.
+kierto"</string>
+    <string name="quickpanel_error_text">Virhe</string>
+    <string name="capital_on">Päällä</string>
+    <string name="capital_off">Pois</string>
+    <string name="lowbattery">Akun varaus on vähissä. Lataa puhelin pian, jos haluat jatkaa sen käyttöä</string>
+    <string name="critical_lowbattery">Akun varaus on erittäin vähissä. Kytke puhelin nyt, jos haluat jatkaa sen käyttöä</string>
+    <string name="dischargetitle">Tiedot</string>
+    <string name="dischargebattery">Lataus keskeytetty. Akun lämpötila on liian korkea tai matala</string>
+    <string name="fullchargetitle">Tiedot</string>
+    <string name="fullchargebattery">"Akku on ladattu täyteen.
+Irrota laturi"</string>
+</resources>

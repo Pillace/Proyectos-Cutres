@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Statusna traka</string>
+    <string name="status_bar_clear_all_button">Obriši</string>
+    <string name="status_bar_no_notifications_title">Bez obavijesti</string>
+    <string name="status_bar_ongoing_events_title">Trenutno</string>
+    <string name="status_bar_latest_events_title">Obavijesti</string>
+    <string name="battery_low_title">Spojite punjač</string>
+    <string name="battery_low_subtitle">Baterija gotovo prazna:</string>
+    <string name="battery_low_percent_format">Preostaje %1$d%% ili manje</string>
+    <string name="battery_low_why">Baterija</string>
+    <string name="usb_accessory_uri_prompt">Nijedna instalirana aplikacija ne radi s ovim USB dodatkom. Saznajte više o ovom dodatku na %1$s</string>
+    <string name="quickpanel_wifi_text">Wi-Fi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Zvuk</string>
+    <string name="quickpanel_sound_vibration_text">"Zvuk
+Vibracija"</string>
+    <string name="quickpanel_silent_text">Bešumno</string>
+    <string name="quickpanel_vibration_text">Vibracija</string>
+    <string name="quickpanel_rotation_text">"Auto.
+rotacija"</string>
+    <string name="quickpanel_error_text">Greška</string>
+    <string name="capital_on">Uključeno</string>
+    <string name="capital_off">Isključeno</string>
+    <string name="lowbattery">Baterija prazna. Napunite telefon za nastavak rada</string>
+    <string name="critical_lowbattery">Baterija kritično prazna. Priključite punjač za nastavak rada</string>
+    <string name="dischargetitle">Info</string>
+    <string name="dischargebattery">Punjenje zaustavljeno. Temperatura baterija previsoka ili preniska</string>
+    <string name="fullchargetitle">Info</string>
+    <string name="fullchargebattery">"Baterija puna
+Iskopčajte punjač"</string>
+    <string name="quickpanel_dc_text">Podaci</string>
+    <string name="quickpanel_dc_on">Uključivanje</string>
+    <string name="quickpanel_dc_off">Isključivanje</string>
+</resources>

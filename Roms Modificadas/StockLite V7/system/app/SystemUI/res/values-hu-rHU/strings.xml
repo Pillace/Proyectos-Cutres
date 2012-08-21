@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Állapotsor</string>
+    <string name="status_bar_clear_all_button">Törlés</string>
+    <string name="status_bar_no_notifications_title">Nincs értesítés</string>
+    <string name="status_bar_ongoing_events_title">Folyamatban</string>
+    <string name="status_bar_latest_events_title">Értesí- tések</string>
+    <string name="battery_low_title">Csatlakoztassa a töltőt</string>
+    <string name="battery_low_subtitle">Hamarosan lemerül az akkumulátor:</string>
+    <string name="battery_low_percent_format">%1$d%% vagy kevesebb maradt</string>
+    <string name="battery_low_why">Akku állap.</string>
+    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_bluetooth_text">B/T</string>
+    <string name="quickpanel_gps_text">GPS</string>
+    <string name="quickpanel_sound_text">Hang</string>
+    <string name="quickpanel_sound_vibration_text">"Hang
+Rezgés"</string>
+    <string name="quickpanel_silent_text">Csendes</string>
+    <string name="quickpanel_vibration_text">Rezgés</string>
+    <string name="quickpanel_rotation_text">"Aut.
+elforg"</string>
+    <string name="quickpanel_error_text">Hiba</string>
+    <string name="capital_on">Be</string>
+    <string name="capital_off">Ki</string>
+    <string name="lowbattery">Az akkumulátor lemerült. A használat folytatásához hamarosan fel kell töltenie a készüléket</string>
+    <string name="critical_lowbattery">Az akkumulátor töltöttsége túl alacsony. A használat folytatásához csatlakoztassa a tápegységet</string>
+    <string name="dischargetitle">Infó</string>
+    <string name="dischargebattery">A töltés megszakítva. Az akku hőmérséklete túl magas vagy túl alacsony</string>
+    <string name="fullchargetitle">Infó</string>
+    <string name="fullchargebattery">"Akkumulátor teljesen feltöltve.
+Húzza ki a töltőt"</string>
+</resources>
