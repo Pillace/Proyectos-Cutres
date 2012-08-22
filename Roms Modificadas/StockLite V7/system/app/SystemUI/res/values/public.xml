@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <public type="drawable" name="btn_default_small" id="0x7f020001" />
+    <public type="drawable" name="APKTOOL_DUMMY_000d" id="0x7f02000d" />
+    <public type="drawable" name="APKTOOL_DUMMY_005e" id="0x7f02005e" />
+    <public type="drawable" name="APKTOOL_DUMMY_005f" id="0x7f02005f" />
+    <public type="drawable" name="APKTOOL_DUMMY_0060" id="0x7f020060" />
+    <public type="drawable" name="APKTOOL_DUMMY_0061" id="0x7f020061" />
+    <public type="drawable" name="APKTOOL_DUMMY_0062" id="0x7f020062" />
+    <public type="drawable" name="APKTOOL_DUMMY_0063" id="0x7f020063" />
+    <public type="drawable" name="APKTOOL_DUMMY_0064" id="0x7f020064" />
+    <public type="drawable" name="APKTOOL_DUMMY_0065" id="0x7f020065" />
+    <public type="drawable" name="APKTOOL_DUMMY_0066" id="0x7f020066" />
+    <public type="drawable" name="APKTOOL_DUMMY_0067" id="0x7f020067" />
     <public type="drawable" name="stat_sys_gps_acquiring_anim" id="0x7f020069" />
     <public type="drawable" name="stat_sys_roaming_cdma_flash" id="0x7f020078" />
     <public type="drawable" name="shade_bgcolor" id="0x7f020097" />
@@ -143,17 +154,6 @@
     <public type="drawable" name="statusbar_background" id="0x7f020094" />
     <public type="drawable" name="title_bar_portrait" id="0x7f020095" />
     <public type="drawable" name="title_bar_shadow" id="0x7f020096" />
-    <public type="drawable" name="APKTOOL_DUMMY_000d" id="0x7f02000d" />
-    <public type="drawable" name="APKTOOL_DUMMY_005e" id="0x7f02005e" />
-    <public type="drawable" name="APKTOOL_DUMMY_005f" id="0x7f02005f" />
-    <public type="drawable" name="APKTOOL_DUMMY_0060" id="0x7f020060" />
-    <public type="drawable" name="APKTOOL_DUMMY_0061" id="0x7f020061" />
-    <public type="drawable" name="APKTOOL_DUMMY_0062" id="0x7f020062" />
-    <public type="drawable" name="APKTOOL_DUMMY_0063" id="0x7f020063" />
-    <public type="drawable" name="APKTOOL_DUMMY_0064" id="0x7f020064" />
-    <public type="drawable" name="APKTOOL_DUMMY_0065" id="0x7f020065" />
-    <public type="drawable" name="APKTOOL_DUMMY_0066" id="0x7f020066" />
-    <public type="drawable" name="APKTOOL_DUMMY_0067" id="0x7f020067" />
     <public type="layout" name="battery_discharge" id="0x7f030000" />
     <public type="layout" name="battery_low" id="0x7f030001" />
     <public type="layout" name="quickpanel_quick_settings" id="0x7f030002" />
