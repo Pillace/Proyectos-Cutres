@@ -9,7 +9,7 @@
     <string name="battery_low_subtitle">La batería se está quedando sin energía:</string>
     <string name="battery_low_percent_format">%1$d%% o menos disponible</string>
     <string name="battery_low_why">Estado bat.</string>
-    <string name="quickpanel_wifi_text">WiFi</string>
+    <string name="quickpanel_wifi_text">Wi-Fi</string>
     <string name="quickpanel_bluetooth_text">B/T</string>
     <string name="quickpanel_gps_text">GPS</string>
     <string name="quickpanel_sound_text">Sonido</string>
@@ -17,11 +17,10 @@
 Vibración"</string>
     <string name="quickpanel_silent_text">Silencio</string>
     <string name="quickpanel_vibration_text">Vibración</string>
-    <string name="quickpanel_rotation_text">"Rotación
-autom"</string>
+    <string name="quickpanel_rotation_text">"Rotación"</string>
     <string name="quickpanel_error_text">Error</string>
-    <string name="capital_on">Activado</string>
-    <string name="capital_off">Desactivado</string>
+    <string name="capital_on">Encendido</string>
+    <string name="capital_off">Apagado</string>
     <string name="lowbattery">Batería baja. Cargue la batería pronto para seguir usando el teléfono</string>
     <string name="critical_lowbattery">Batería muy baja. Cargue el teléfono ahora para seguir usándolo</string>
     <string name="dischargetitle">Información</string>
