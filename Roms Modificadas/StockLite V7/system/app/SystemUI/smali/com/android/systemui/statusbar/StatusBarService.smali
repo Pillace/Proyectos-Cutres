@@ -18,6 +18,8 @@
 
 
 # instance fields
+.field mTouchDispatcher:Lcom/android/systemui/statusbar/ItemTouchDispatcher;
+
 .field mAbsPos:[I
 
 .field mAnimAccel:F
@@ -475,6 +477,13 @@
 
     .line 272
     .local v5, res:Landroid/content/res/Resources;
+    
+    new-instance v6, Lcom/android/systemui/statusbar/ItemTouchDispatcher;
+
+    invoke-direct {v6, p0}, Lcom/android/systemui/statusbar/ItemTouchDispatcher;-><init>(Landroid/content/Context;)V
+
+    iput-object v6, p0, Lcom/android/systemui/statusbar/StatusBarService;->mTouchDispatcher:Lcom/android/systemui/statusbar/ItemTouchDispatcher;
+    
     const v8, 0x1050005
 
     invoke-virtual {v5, v8}, Landroid/content/res/Resources;->getDimensionPixelSize(I)I
@@ -497,6 +506,11 @@
     iput-object p0, v2, Lcom/android/systemui/statusbar/ExpandedView;->mService:Lcom/android/systemui/statusbar/StatusBarService;
 
     .line 278
+    
+    iget-object v6, p0, Lcom/android/systemui/statusbar/StatusBarService;->mTouchDispatcher:Lcom/android/systemui/statusbar/ItemTouchDispatcher;
+
+    iput-object v6, v2, Lcom/android/systemui/statusbar/ExpandedView;->mTouchDispatcher:Lcom/android/systemui/statusbar/ItemTouchDispatcher;
+    
     const v8, 0x7f030004
 
     invoke-static {p1, v8, v10}, Landroid/view/View;->inflate(Landroid/content/Context;ILandroid/view/ViewGroup;)Landroid/view/View;
@@ -946,7 +960,9 @@
     .line 701
     iget-object v2, p0, Lcom/android/systemui/statusbar/StatusBarService;->mClearButton:Landroid/widget/TextView;
 
-    invoke-virtual {v2, v4}, Landroid/widget/TextView;->setVisibility(I)V
+    const/4 v3, 0x4
+
+    invoke-virtual {v2, v3}, Landroid/widget/TextView;->setVisibility(I)V
 
     .line 706
     :goto_0
@@ -3146,10 +3162,61 @@
 
     move-result-object v9
 
+    check-cast v9, Lcom/android/systemui/statusbar/LatestItemContainer;
+
+    .line 516
+    .local v9, row:Lcom/android/systemui/statusbar/LatestItemContainer;
+    move-object/from16 v0, v2
+
+    iget v0, v0, Landroid/app/Notification;->flags:I
+
+    move v4, v0
+
+    and-int/lit8 v4, v4, 0x2
+
+    if-nez v4, :cond_1
+
+    move-object/from16 v0, v2
+
+    iget v0, v0, Landroid/app/Notification;->flags:I
+
+    move v4, v0
+
+    and-int/lit8 v4, v4, 0x20
+
+    if-nez v4, :cond_1
+
+	iget-object v0, p0, Lcom/android/systemui/statusbar/StatusBarService;->mTouchDispatcher:Lcom/android/systemui/statusbar/ItemTouchDispatcher;
+	
+	move-object v5, v0
+	
+    new-instance v4, Lcom/android/systemui/statusbar/StatusBarService$7;
+
+    move-object v0, v4
+
+    move-object/from16 v1, p0
+
+    move-object/from16 v7, p1
+
+    invoke-direct {v0, v1, v7}, Lcom/android/systemui/statusbar/StatusBarService$7;-><init>(Lcom/android/systemui/statusbar/StatusBarService;Lcom/android/internal/statusbar/StatusBarNotification;)V
+
+    move-object/from16 v0, v9
+
+    move-object v1, v5
+    
+    move-object v7, v4
+
+    invoke-virtual {v0, v1, v7}, Lcom/android/systemui/statusbar/LatestItemContainer;->setOnSwipeCallback(Lcom/android/systemui/statusbar/ItemTouchDispatcher;Ljava/lang/Runnable;)V
+
+    .line 735
+    goto :goto_1
+
     .line 581
+    :cond_1
+    :goto_1
     const v1, 0x7f090024
 
-    invoke-virtual {v9, v1}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+    invoke-virtual {v9, v1}, Lcom/android/systemui/statusbar/LatestItemContainer;->findViewById(I)Landroid/view/View;
 
     move-result-object v1
 
@@ -3173,7 +3240,7 @@
     iget-object v3, v2, Landroid/app/Notification;->contentIntent:Landroid/app/PendingIntent;
 
     .line 585
-    if-eqz v3, :cond_1
+    if-eqz v3, :cond_2
 
     .line 586
     new-instance v1, Lcom/android/systemui/statusbar/StatusBarService$Launcher;
@@ -3191,7 +3258,7 @@
     invoke-virtual {v7, v1}, Landroid/view/ViewGroup;->setOnClickListener(Landroid/view/View$OnClickListener;)V
 
     .line 593
-    :cond_1
+    :cond_2
     :try_start_0
     invoke-virtual {v8, p0, v7}, Landroid/widget/RemoteViews;->apply(Landroid/content/Context;Landroid/view/ViewGroup;)Landroid/view/View;
     :try_end_0
@@ -3204,8 +3271,8 @@
     move-object v1, v10
 
     .line 598
-    :goto_1
-    if-nez v2, :cond_2
+    :goto_2
+    if-nez v2, :cond_3
 
     .line 599
     new-instance v2, Ljava/lang/StringBuilder;
@@ -3264,7 +3331,7 @@
     move-object v1, v10
 
     .line 601
-    goto :goto_0
+    goto/16 :goto_0
 
     .line 595
     :catch_0
@@ -3273,14 +3340,14 @@
     move-object v2, v10
 
     .line 596
-    goto :goto_1
+    goto :goto_2
 
     .line 603
-    :cond_2
+    :cond_3
     invoke-virtual {v7, v2}, Landroid/view/ViewGroup;->addView(Landroid/view/View;)V
 
     .line 604
-    invoke-virtual {v9, v12}, Landroid/view/View;->setDrawingCacheEnabled(Z)V
+    invoke-virtual {v9, v12}, Lcom/android/systemui/statusbar/LatestItemContainer;->setDrawingCacheEnabled(Z)V
 
     .line 607
     const/4 v1, 0x3
